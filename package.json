@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap3-native",
+  "version": "1.0.0",
+  "description": "Fixed fork from 'bootstrap.native' for isomorphic applications",
+  "main": "./index.js",
+  "typings": "./index.d.ts",
+  "umd": "./index.js",
+  "umd_name": "NVal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickMaev/bootstrap3-native.git"
+  },
+  "author": "Nikolay Maev <trix.mnr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickMaev/bootstrap3-native/issues"
+  },
+  "homepage": "https://github.com/NickMaev/bootstrap3-native#readme"
+}
