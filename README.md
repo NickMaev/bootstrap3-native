@@ -6,7 +6,7 @@ bootstrap3-native is a fixed fork from [bootstrap.native](https://github.com/the
 This version:
 * contains types;
 * allows you to build isomorphic web applications;
-* hasn't got an automatic initialization of a components.
+* hasn't got an automatic initialization of components.
 
 # Installation
 `npm install bootstrap3-native`
